@@ -1,0 +1,13 @@
+# Archivos temporales de compilacion de clases
+**/bin/
+**/build/
+*.class
+
+# Archivos de sistema operativo y editores
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+*.iml
+.nb-gradle/

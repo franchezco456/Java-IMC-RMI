@@ -1,0 +1,10 @@
+{
+    "folders": [
+        { "name": "1. Libreria comun (EjemploLipeRmiLibImc)", "path": "EjemploLipeRmiLibImc" },
+        { "name": "2. Servidor (EjemploLipeRmiServidorImc)", "path": "EjemploLipeRmiServidorImc" },
+        { "name": "3. Cliente (EjemploLipeRmiClienteImc)", "path": "EjemploLipeRmiClienteImc" }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic"
+    }
+}
